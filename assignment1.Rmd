@@ -1,0 +1,73 @@
+---
+title: "ESM 261 - Assignment 1"
+author: "Hannah Garcia-Wickstrum"
+date: "3/31/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Bren School Folder Organization on my Personal Desktop
+
+#### This folder contains folders for each course I've taken at Bren over the last year 2 years and the corresponding material 
+
+- Fall-Quarter_2019 /: This folder contains coursework material for classes taken in Fall 2019
+  - ESM_203 /: Earth Systems Science Coursework
+    - n/: files for course
+  - ESM_206 /: Environmental Data Analysis Coursework
+    - n/: files for course
+  - ESM_210 /: Business and the Environment Coursework
+    - n/: files for course
+  - ESM_437 /: Environmental Writing
+    - n/: files for course
+- Winter-Quarter 2020 /: This folder contains coursework material for classes taken in Winter 2020
+  - ESM_201 /: Ecology of Managed Systems Coursework
+    - n/: files for course
+  - ESM_202 /: Biogeochemistry Coursework
+    - n/: files for course
+  - ESM_241 /: Policy and Politics Coursework
+    - n/: files for course
+  - ESM_263 /: GIS Coursework
+    - n/: files for course
+  - ESM 262 /: Environmental Computing Coursework
+    - n/: files for course
+- Spring-Quarter_2020 /: This folder contains coursework material for classes taken in Spring Quarter 2020
+  - ESM_204 /: Economics Coursework
+    - n/: files for course
+  - ESM_207 /: Law and Policy Coursework
+    - n/: files for course
+  - ESM_270 /: Conservation Planning Coursework
+    - n/: files for course
+- Fall-Quarter_2020 /: This folder contains coursework material for classes taken in Fall Quarter 2020
+  - ESM_225 /: Water Policy Coursework
+   - n/: files for course
+  - ESM_270P /: Conservation Planning Coursework
+    - n/: files for course
+- Winter-Quarter_2021 /: This folder contains coursework material for classes taken in Winter Quarter 2021
+  - ESM_215 /: Landscape ecology Coursework
+    - n/: files for course
+  - ESM_244 /: Advanced Data Analysis Coursework
+    - n/: files for course
+  - ESM_438 /:  Presentations Skills Coursework
+    - n/: files for course
+  - ESM_439 /: Data Visualization 
+    - n/: files for course
+- Spring-Quarter_2021 /: This folder contains coursework material for classes taken in Spring Quarter 2021
+  - ESM_232 /: Environmental Modeling Coursework
+    - n/: files for course
+  - ESM_237 /: Climate Change Impacts Coursework 
+    - n/: files for course
+  - ESM_296 /: Environmental Planning Coursework 
+    - n/: files for course
+  - ESM_261 /: Management of Data Coursework 
+    - ESM261_assignment1 /: Assignment 1 folder
+      - ESM261_assignment1.Rproj : R project for assignment 1
+      - assignment1.Rmd : markdown for assignment 1
+      - assignment1.html : html document for assignment 1
+      - .gitignore : .gitignore file for assignment 1 
+      
+
+
+
